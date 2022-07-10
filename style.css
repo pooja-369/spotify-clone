@@ -19,8 +19,8 @@ nav ul {
     width: 245px;
     list-style-type: none;
     /* min-height: 80vh; */
-    /* height: 121vh; */
-    /* background-color: black; */
+    height: 121vh;
+    background-color: black;
     color: white;
 }
 

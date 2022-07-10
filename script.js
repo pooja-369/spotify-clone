@@ -12,14 +12,14 @@ let songItems = Array.from(document.getElementsByClassName('songItem'));
 let songs = [
     { songName: "Best of Me", filePath: "songs/1.mp3", coverPath: "covers/1.jpg" },
     { songName: "Grateful", filePath: "songs/2.mp3", coverPath: "covers/2.jpg" },
-    { songName: "Fight Back", filePath: "songs/3.mp3", coverPath: "covers/3.jpg" },
+    { songName: "cold", filePath: "songs/3.mp3", coverPath: "covers/3.jpg" },
     { songName: "Rumors", filePath: "songs/4.mp3", coverPath: "covers/4.jpg" },
-    { songName: "Cold", filePath: "songs/5.mp3", coverPath: "covers/5.jpg" },
+    { songName: "fight back", filePath: "songs/5.mp3", coverPath: "covers/5.jpg" },
     { songName: "Careless", filePath: "songs/2.mp3", coverPath: "covers/6.jpg" },
-    { songName: "Destiny", filePath: "songs/2.mp3", coverPath: "covers/7.jpg" },
-    { songName: "Crown", filePath: "songs/2.mp3", coverPath: "covers/8.jpg" },
-    { songName: "Life", filePath: "songs/2.mp3", coverPath: "covers/9.jpg" },
-    { songName: "Soldier", filePath: "songs/4.mp3", coverPath: "covers/10.jpg" },
+    { songName: "failure", filePath: "songs/2.mp3", coverPath: "covers/7.jpg" },
+    { songName: "destiny", filePath: "songs/2.mp3", coverPath: "covers/8.jpg" },
+    { songName: "Light it up", filePath: "songs/2.mp3", coverPath: "covers/9.jpg" },
+    { songName: "Bros B4", filePath: "songs/4.mp3", coverPath: "covers/10.jpg" },
 ]
 
 songItems.forEach((element, i) => {
